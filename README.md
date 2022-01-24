@@ -14,6 +14,7 @@ Refer [Meeting Room Booking Story](https://docs.google.com/document/d/1BfhgfNOIT
 -Project is written in Angular and uses [PrimeFaces](https://www.primefaces.org/primeng/) for UI Library.  
 -Branches name start with `ma/ui/`  
 -Don't forget to `yarn install`  
+-`TELCO-ng-generic-fe/apps/tg/src/assets/` to access styling and themes  
 
 ## Branches
 ![flow](https://user-images.githubusercontent.com/87816481/150762339-a1bab345-b41a-4eaa-9294-dff1c6f75aea.PNG)
