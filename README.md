@@ -8,7 +8,7 @@ Refer [Meeting Room Booking Story](https://docs.google.com/document/d/1BfhgfNOIT
 [Meeting Room Booking Figma Design](https://www.figma.com/file/JS2zV3uQUNSeOO6jLkSUWb/Meeting-Room-Booking-Internal?fuid=1049609933941444786). Might require access.
 
 ## UI Convention: 
-[Selise UI Convention](https://wiki.selise.tech/team/ui)
+Refer and follow the [Selise UI Convention](https://wiki.selise.tech/team/ui)
 
 ## Note:
 -Project is written in Angular and uses [PrimeFaces](https://www.primefaces.org/primeng/) for UI Library.  
