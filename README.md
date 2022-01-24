@@ -2,10 +2,10 @@
 *UI Documentation for Meeting Room Booking App.*
 
 ## Stories:
-Refer (https://docs.google.com/document/d/1BfhgfNOITF2ktaKfbpIvcTJ8B3km_fdCNuRkgiXf8i4/edit) for detailed story. Might require access.
+Refer [Meeting Room Booking Story](https://docs.google.com/document/d/1BfhgfNOITF2ktaKfbpIvcTJ8B3km_fdCNuRkgiXf8i4/edit) for detailed story. Might require access.
 
 ## Note:
--Project is written in Angular and uses [PrimeFaces](https://www.primefaces.org/primeng/)) for UI Library.
+-Project is written in Angular and uses [PrimeFaces](https://www.primefaces.org/primeng/) for UI Library.
 -Branches name start with `ma/ui/`
 -Don't forget to `yarn install`
 
