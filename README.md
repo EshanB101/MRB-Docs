@@ -15,6 +15,8 @@ Refer and follow the [Selise UI Convention](https://wiki.selise.tech/team/ui)
 -Branche name for UI start with `ma/ui/`  
 -Don't forget to `yarn install`  
 -`TELCO-ng-generic-fe/apps/tg/src/assets/` to access styling and themes  
+-DO NOT modify the theme.scss file  
+
 
 ## Branches
 ![flow](https://user-images.githubusercontent.com/87816481/150762339-a1bab345-b41a-4eaa-9294-dff1c6f75aea.PNG)
