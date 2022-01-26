@@ -12,7 +12,7 @@ Refer and follow the [Selise UI Convention](https://wiki.selise.tech/team/ui)
 
 ## Note:
 -Project is written in Angular and uses [PrimeFaces](https://www.primefaces.org/primeng/) for UI Library.  
--Branches name start with `ma/ui/`  
+-Branche name for UI start with `ma/ui/`  
 -Don't forget to `yarn install`  
 -`TELCO-ng-generic-fe/apps/tg/src/assets/` to access styling and themes  
 
